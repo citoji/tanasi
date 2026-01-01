@@ -1,2 +1,2 @@
 # tanasi
-Tanasi Super Continent Currency and Asset Hybrid Blockchain Digital Coin Powered By Native Americas Sweat and Tears
+Tanasi Digital Currency and Asset Blockchain backed by Tanasi physical tokens, sponsored by Red Wolf River Nation (RWRN). Endorsement from Aeon Chief of RWRN, AC Cito Vincent Pellegra and the Reservation. 
