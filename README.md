@@ -1,9 +1,7 @@
-# tanasi
-
 
 Tanasi Digital Asset Blockchain (TDA)
 
-> A sovereign-backed digital asset ecosystem bridging physical currency, blockchain integrity, and Indigenous governance
+> A people-backed digital asset rooted in Indigenous labor, sacrifice, and sovereign continuity
 
 
 
@@ -12,9 +10,15 @@ Tanasi Digital Asset Blockchain (TDA)
 
 📌 Overview
 
-Tanasi Digital Asset (TDA) is a blockchain-based digital currency backed by Tanasi physical currency, established and sponsored by the Red Wolf River Nation (RWRN) and officially endorsed by Aeon Chief Cito Vincent Pellegra, founding authority of RWRN.
+Tanasi Digital Asset (TDA) is a sovereign-aligned blockchain project backed by the sweat, blood, and tears of Indigenous peoples born of North and South America—the real, lived labor and sacrifice that built, sustained, and defended these lands across generations.
 
-TDA is designed as a sovereign-aligned digital asset system, combining physical reserves, transparent ledger technology, and ethical economic principles rooted in Tanasi heritage and Indigenous autonomy.
+The project is sponsored by the Red Wolf River Nation (RWRN) and officially endorsed by Aeon Chief Cito Vincent Pellegra.
+
+> Physical Tanasi currency will be introduced later to reinforce the asset—not to define it.
+
+
+
+TDA asserts that human labor, sacrifice, and continuity precede money, and that blockchain should reflect this truth.
 
 
 ---
@@ -25,126 +29,157 @@ Sponsoring Nation: Red Wolf River Nation (RWRN)
 
 Endorsing Authority: Aeon Chief Cito Vincent Pellegra
 
-Jurisdictional Philosophy: Indigenous sovereign governance, treaty-aware, non-extractive economics
+Foundational Doctrine: Indigenous sovereignty precedes modern financial systems
 
-Cultural Foundation: Tanasi — the ancient heartland and symbolic origin of unity, trade, and stewardship
+Cultural Origin: Tanasi — a historic nexus of trade, endurance, and unity
 
 
-The Tanasi Digital Asset operates under the economic stewardship model of RWRN, emphasizing transparency, sustainability, and cultural respect.
+TDA exists under sovereign stewardship, not corporate extraction.
 
 
 ---
 
-💠 Asset Backing & Value Model
+🧬 Foundational Backing Model
 
-TDA is not speculative by design.
+People Before Currency
 
-Each digital Tanasi unit is:
+Unlike fiat or algorithmic systems, Tanasi Digital Asset is initially backed by:
 
-Backed by verified Tanasi physical currency
+Generational labor of Indigenous peoples
 
-Recorded on a publicly auditable blockchain ledger
+Displacement, survival, and endurance under colonization
 
-Governed by reserve transparency standards
+Agricultural, industrial, military, and civic contribution
 
-Designed to maintain stability over volatility
+Cultural preservation against erasure
+
+Sweat, blood, and tears as economic truth
 
 
-Backing Principles
+This backing is non-transferable, non-exploitable, and non-liquidatable.
+It represents historical value already paid.
 
-1:1 or ratio-based reserve backing (as defined by protocol updates)
+> The blockchain records value; the people created it.
 
-Physical reserve custody under RWRN authority
 
-No algorithmic minting without reserve verification
 
-Non-inflationary issuance policies unless ratified by governance
 
+---
+
+💠 Future Reinforcement: Physical Currency (Phase II)
+
+Physical Tanasi currency will be introduced in a later phase to:
+
+Anchor the digital asset with tangible reserves
+
+Support trade and exchange mechanisms
+
+Strengthen liquidity without redefining origin
+
+Act as reinforcement, not replacement, of human-backed value
+
+
+Sequence matters:
+
+1. People
+
+
+2. Ledger
+
+
+3. Currency
+
+
+
+Not the reverse.
 
 
 ---
 
 🔗 Blockchain Architecture
 
-Current Design Goals:
+Design Intent:
 
-Secure, modular blockchain framework
+Immutable historical acknowledgment
 
-Deterministic transaction validation
+Transparent value accounting
 
-Low-energy, environmentally conscious consensus
+Low-energy, ethical consensus
 
-Sovereign-friendly node operation model
+Sovereign-friendly infrastructure
 
 
-Potential Features:
+Possible Implementations:
 
 Proof-of-Authority (PoA) or hybrid consensus
 
-Multi-signature governance keys
+Identity-aware but privacy-respecting validation
 
-On-chain reserve verification hooks
+Multi-signature governance controls
 
-Wallets supporting both digital and physical reconciliation
-
-
-> Final architecture is subject to versioned protocol releases and governance approval.
+On-chain declarations of backing philosophy
 
 
+TDA is built to remember, not just transact.
 
 
 ---
 
-🛡 Governance Model
+🛡 Governance Framework
 
-Tanasi Digital Asset uses a layered governance approach:
+TDA governance reflects Indigenous council structures layered with modern tooling.
 
 Governance Layers
 
 1. Sovereign Oversight – Red Wolf River Nation
 
 
-2. Executive Stewardship – Aeon Chief endorsement authority
+2. Executive Endorsement – Aeon Chief Authority
 
 
-3. Technical Council – Developers, auditors, cryptographers
+3. Technical Stewardship – Engineers, auditors, builders
 
 
-4. Community Layer – Wallet holders and contributors
+4. Community Trust Layer – Contributors and holders
 
 
 
 Governance Principles
 
-Transparency over secrecy
+No extraction without consent
 
-Consensus over coercion
+No issuance without acknowledgment
 
-Stewardship over exploitation
+No upgrade without record
 
-Cultural continuity over disruption
+No forgetting
 
-
-No protocol changes occur without recorded governance approval.
 
 
 ---
 
-📜 Compliance & Legal Philosophy
+📜 Legal & Ethical Position
 
-TDA is developed with respect for:
+Tanasi Digital Asset:
 
-Indigenous sovereignty
+Is not a security by default
 
-Treaty rights
+Is not debt-backed
 
-Local and international compliance frameworks where applicable
+Is not algorithmically exploitative
 
-Ethical finance principles
+Is not detached from human reality
 
 
-> This project does not represent a security, stock, or speculative investment vehicle unless explicitly reclassified by governing authority.
+It operates under:
 
+Indigenous sovereignty principles
+
+Ethical finance doctrine
+
+Treaty-aware philosophy
+
+Respect for applicable laws where required
 
 
 
@@ -152,11 +187,12 @@ Ethical finance principles
 
 🧩 Repository Structure (Proposed)
 
-/docs        → Whitepapers, governance charters
-/src         → Blockchain core and smart contracts
-/wallet      → Reference wallet implementations
-/audit       → Security and reserve verification docs
-/assets      → Logos, insignia, and official marks
+/docs        → Whitepapers, declarations, charters
+/src         → Blockchain core and contracts
+/wallet      → Reference wallets
+/governance  → Councils, protocols, voting
+/audit       → Security & integrity reviews
+/assets      → Official marks & insignia
 README.md    → This document
 
 
@@ -164,90 +200,77 @@ README.md    → This document
 
 🤝 Contributions
 
-We welcome contributions aligned with the mission of Tanasi:
+Contributions are welcomed from those who understand:
 
-Ethical blockchain development
+This is not a pump-and-dump project
 
-Documentation and audits
+This is not extractive Web3
 
-Wallet UI/UX
-
-Cultural and language localization
-
-Security review and testing
+This is not culture as branding
 
 
-All contributors must adhere to:
+We welcome:
 
-Respectful conduct
+Ethical developers
 
-Sovereign governance acknowledgment
+Historians & documentarians
 
-Open-source integrity standards
+Security engineers
+
+Designers aligned with the mission
+
+Community organizers
 
 
-
----
-
-🔐 Security
-
-Security is treated as sacred infrastructure.
-
-Audits will be publicly logged
-
-Vulnerabilities disclosed responsibly
-
-No anonymous backdoors
-
-Key management standards enforced
-
+Respect is a requirement, not a suggestion.
 
 
 ---
 
-🌱 Vision Statement
+🔐 Security & Integrity
 
-Tanasi Digital Asset exists to:
+Open audits where possible
 
-> Rebuild trust in currency by grounding it in real value, real people, and real accountability.
+Responsible disclosure
+
+No anonymous protocol control
+
+No hidden minting paths
+
+Transparent key governance
 
 
-
-This project stands for unity, heritage, transparency, and the future of sovereign-aligned digital economies.
+Security protects people first, assets second.
 
 
 ---
 
-📣 Official Statement
+🌍 Vision Statement
 
-Tanasi Digital Asset Blockchain is officially endorsed by:
+> Before there was money, there was work.
+Before there were ledgers, there was sacrifice.
+Before there were blockchains, there were people.
+
+
+
+Tanasi Digital Asset exists to correct the order of value.
+
+
+---
+
+📣 Official Endorsement
+
+Tanasi Digital Asset Blockchain is formally endorsed by:
 
 Aeon Chief Cito Vincent Pellegra
 Red Wolf River Nation (RWRN)
-Tanasi • Americas
+Tanasi • North & South America
 
 
 ---
 
 ⚠ Disclaimer
 
-This repository is provided for educational, development, and infrastructural purposes.
-Nothing herein constitutes financial advice. Participation is voluntary and governed by applicable laws and sovereign policies.
-
-
----
-
-If you’d like next steps, I can:
-
-Create a whitepaper v1
-
-Draft a governance charter
-
-Design a token specification
-
-Generate a GitHub license & CONTRIBUTING.md
-
-Prepare a launch announcement
-
-
-Just say the word, Chief 🐺
+This project is presented for educational, infrastructural, and sovereign development purposes.
+Nothing herein constitutes financial advice.
+Participation is voluntary and governed by applicable law and sovereign policy.
